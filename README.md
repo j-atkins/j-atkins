@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+I am a Postdoctoral Researcher working in the [OceanParcels](https://oceanparcels.org/) group at Utrecht University, specifically on the [VirtualShip](https://virtualship.oceanparcels.org/) project. This tool is used to give students experience similar to sea-going fieldwork, analyse ocean data and also provides a platform for scientists to plan their future research. I focus on developing the Python code base.
 
 <!--
 **j-atkins/j-atkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
