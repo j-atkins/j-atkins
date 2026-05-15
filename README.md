@@ -1,6 +1,8 @@
 ## Hello, I'm Jamie 👋
 
-I am a Postdoctoral Researcher working in the [Parcels](https://oceanparcels.org/) group at Utrecht University, specifically on the [VirtualShip](https://virtualship.oceanparcels.org/) project. This tool simulates measurements as if they are coming from real-life oceanographic instruments, facilitating student training, expedition planning, and/or design of sampling/instrument strategies. I focus on developing the Python codebase.
+I am a Climate Physicist & Research Software Engineer, specialising in Earth System science, high-performance data pipelines and open-source scientific software.
+
+Currently working as a Postdoctoral Researcher in the [Parcels](https://github.com/Parcels-code) group at Utrecht University, specifically on the [VirtualShip](https://github.com/Parcels-code/virtualship) project. This tool simulates measurements as if they are coming from real-life oceanographic instruments, facilitating research, student training and/or observing system simulation experiments. I maintain and develop the Python codebase.
 
 <!--
 **j-atkins/j-atkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
